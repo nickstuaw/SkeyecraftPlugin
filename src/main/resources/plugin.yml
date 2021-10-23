@@ -1,0 +1,7 @@
+name: Skeyecraft
+version: '${project.version}'
+main: xyz.nsgw.skeyecraft.Skeyecraft
+api-version: 1.17
+authors: [ nsgwick ]
+description: The plugin for the Skeyecraft server.
+website: nsgw.xyz

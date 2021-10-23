@@ -1,0 +1,20 @@
+lang:
+  rules:
+    - "Respect other players and their land."
+    - "No spamming or advertising."
+    - "No hacking or cheating."
+    - "No griefing or stealing."
+    - "No NSFW or related content."
+    - "No political debates."
+    - "No unsolicited direct messages which breach the other rules."
+    - "No abusive behaviour; no racism or hate speech."
+    - "Staff decisions are final."
+rules:
+  join: true
+  spawnpoint:
+    world: world
+    yaw: -90.0
+    pitch: 0.0
+    x: 215.0
+    y: 64.0
+    z: 124.0
